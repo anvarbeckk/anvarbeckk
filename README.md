@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Python, Golang, Django
+- 💬 Ask me about **Python, Golang, Django**
 
 - 📫 How to reach me **anvarbekjumamuradov@gmail.com**
 
