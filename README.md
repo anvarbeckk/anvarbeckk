@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvarbeckk&label=Profile%20views&color=0e75b6&style=flat" alt="anvarbeckk" /> </p>
 
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **Python, Golang, Django**
+- 🌱 I’m currently learning deeply **Python Backend Development**
 
 - 📫 How to reach me **anvarbekjumamuradov@gmail.com**
