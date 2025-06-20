@@ -24,7 +24,7 @@ class Attributes(Anvarbek):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['Uzbek', 'English']
-        age   = 15
+        age   = 16
 		
         return langs, age
 	
