@@ -15,7 +15,7 @@ class Anvarbek:
 class Attributes(Anvarbek):
     @property
     def contact(self) -> Tuple[str, str, str]:
-		pass
+		return None
 
     @property
     def life(self) -> Tuple[List[str], int]:
