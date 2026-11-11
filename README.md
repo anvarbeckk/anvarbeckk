@@ -15,11 +15,7 @@ class Anvarbek:
 class Attributes(Anvarbek):
     @property
     def contact(self) -> Tuple[str, str, str]:
-        telegram = "t.me/jumamuradv"
-        channel  = "t.me/anvarbeckk"
-        email    = "anvarbekjumamuradov@gmail.com"
-	    
-        return telegram, channel, email
+		pass
 
     @property
     def life(self) -> Tuple[List[str], int]:
